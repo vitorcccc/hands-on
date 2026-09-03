@@ -702,6 +702,5 @@ Este projeto foi desenvolvido para fins educacionais na **FIAP - Faculdade de In
 
 <p align="center">
   <b>FIAP - Faculdade de Informática e Administração Paulista</b><br>
-  Desenvolvido com ❤️ por <b>Isadora Meneghetti</b><br>
   © 2026 - Todos os direitos reservados
 </p>
